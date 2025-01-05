@@ -7,7 +7,7 @@
 
 ## 🔥배포 링크
 
-[Riders - 내일배움캠프 6기 4조](https://www.bicyclerider.site/)
+[Riders](https://www.bicyclerider.site/)
 
 <br/>
 
